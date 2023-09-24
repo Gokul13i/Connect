@@ -9,5 +9,3 @@ Features: <br>
 5.Partcipants can join with room link<br> 
 6.Chat Before and after video call <br>
 
-# Demo
-https://scenic-bryce-canyon-02791.herokuapp.com/0db7aee1-0082-4023-9a8b-19f5783c44b9
